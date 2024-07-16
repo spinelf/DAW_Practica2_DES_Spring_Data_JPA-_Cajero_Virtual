@@ -1,0 +1,71 @@
+body {
+	max-width: 50rem;
+	margin: auto;
+	font-family: "hind";
+}
+
+.boton_entrar {
+  background: #ed5c18;
+  border-radius: 10px;
+  width: 140px;
+  height: 30px;
+  border: solid  #ed5c18;
+  font-size: 15px;
+  font-family: "hind";
+  color: white;
+}
+
+.boton_entrar:hover {
+  background: #FFFFFF;
+  border: 1px solid #ED5C18;
+  border-radius: 10px;
+  color: #ED5C18;
+
+}
+
+.boton_operar {
+	background: blue;
+	font-size: 15px;
+  	font-family: "hind";
+  	border:none;
+  	color:white;
+	
+}
+
+
+.opcion_menu {
+  background: white;
+  font-size: 15px;
+  font-family: Arial;
+  color: rgb(0, 0, 0);
+}
+
+h2 {
+	color:#ed5c18;
+	font-family: Arial;
+	font-size: 1.5rem;
+	font-style: italic;
+}
+
+h1 {
+	color:blue;
+	font-family: Arial;
+	font-size: 1.5rem;
+	font-style: italic;
+}
+
+.m_error {
+	color:red;
+	text-align:left;
+}
+.mensajeok {
+	color:black;
+}
+
+.p{
+	color:#ed5c18;
+	font-family: Arial;
+	font-size: 1.5rem;
+	font-style: italic;
+	
+}
